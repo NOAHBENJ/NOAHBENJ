@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft Modding
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on a Minecraft Hacked Client with Forge 1.8.9
-- 📫 How to reach me ...
+- 📫 How to reach me would be my Discord, NOAHBENJ#0001
 
 <!---
 NOAHBENJ/NOAHBENJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
