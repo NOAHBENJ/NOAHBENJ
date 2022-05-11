@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NOAHBENJ
-- 👀 I’m interested in Minecraft Modding
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on a Minecraft Hacked Client with Forge 1.8.9
-- 📫 How to reach me would be my Discord, NOAHBENJ#0001
+- 👀 I’m interested in Software Development/Computer Science!
+- 🌱 I’m currently learning Java, Python, C++, C, and Swift
+- 💞️ I’m looking to collaborate on iPhone Apps, and small C++ projects!
+- 📫 How to reach me would be my Discord, NOAHBENJ#8726!
 
 <!---
 NOAHBENJ/NOAHBENJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
