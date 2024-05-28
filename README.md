@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NOAHBENJ
-- 👀 I’m interested in Software Development/Computer Science!
-- 🌱 I’m currently learning Java, Python, Swift, and a little bit of web development as a part of school!
-- 💞️ I’m looking to collaborate on nothing right now.
+- 👀 I’m interested in Cybersecurity/Software Development/Computer Science
+- 🌱 I’m currently learning Java, Python, and Javascript
+- 💞️ I’m looking to collaborate on anything right now!
 - 📫 How to reach me would be my Discord, @very.autistic!
 
 <!---
